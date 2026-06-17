@@ -1,0 +1,6 @@
+{
+  "name": "AllDown Bot Studio",
+  "description": "استودیو تولید و شخصی‌سازی ربات دانلودر همه‌کاره تلگرام AllDown با پشتیبانی از یوتیوب، اینستاگرام، تیک‌تاک و اسپاتیفای",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
